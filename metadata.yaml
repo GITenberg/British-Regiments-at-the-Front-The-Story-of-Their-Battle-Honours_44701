@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42880'
     url: http://www.gutenberg.org/2009/agents/42880
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44701#British-Regiments-at-the-Front-The-Story-of-Their-Battle-Honours
 gutenberg_issued: '2014-01-18'
 gutenberg_type: Text
 identifiers:
